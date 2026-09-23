@@ -24,12 +24,12 @@
 
 <img width="799" height="326" alt="image" src="https://github.com/user-attachments/assets/f2b103a8-c4e2-4480-8eef-b72b6294e134" />
 
-## 7. ## 布林邏輯與除錯實戰 (Boolean Logic)
-###💡 **邏輯運算子**：
-###`and`：邏輯且（兩者皆真才為真）
+## 7. 布林邏輯與除錯實戰 (Boolean Logic)
+### 💡 **邏輯運算子**：
+### `and`：邏輯且（兩者皆真才為真）
 ### `or`：邏輯或（其一為真即為真）
 ### `not`：邏輯非（反轉真假值）
-###`!=`：不等於（可用於布林 XOR 互斥或效果）
+### `!=`：不等於（可用於布林 XOR 互斥或效果）
 
 <img width="806" height="531" alt="image" src="https://github.com/user-attachments/assets/b5b7132b-2d17-4eba-b53f-744e9ec4eccf" />
 
