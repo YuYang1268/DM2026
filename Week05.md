@@ -1,4 +1,5 @@
 # Python 103
+# Topic: THE MATRIX AWEKENING 資料矩陣的覺醒
 ## 📝 Challenge 1.1 (全 1 矩陣): 使用二維的 List Comprehension，產生一個 3x3 且全部填滿數字 1 的矩陣並印出。
 
 <img width="635" height="211" alt="image" src="https://github.com/user-attachments/assets/16b8a925-8ab1-4b14-a0f2-b7e3945cade8" />
