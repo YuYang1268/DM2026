@@ -19,3 +19,20 @@
 
 <img width="1177" height="462" alt="image" src="https://github.com/user-attachments/assets/6f66f890-fb2c-41d5-b8a9-62ae5115e0c1" />
 
+## 📝 Challenge 2.1 (客製化 5x5 地圖): 初始化一個 5x5 的 visible 矩陣，全塞滿 🟦。將四個角落修改為 🏝️，然後用 join() 印出。
+
+<img width="1131" height="533" alt="image" src="https://github.com/user-attachments/assets/f85fc3e1-2f33-4243-9c61-2bc982d667bc" />
+
+## 📝 Challenge 2.2 (十字瞄準線): 建立一個 5x5 的矩陣，預設全為 🔲。使用迴圈將第 2 列與第 2 行 (也就是正中間的十字) 替換為 🔴，並印出。
+
+<img width="1237" height="486" alt="image" src="https://github.com/user-attachments/assets/0496d244-5da7-4ce0-8018-a48e2e483059" />
+
+## 📝 Challenge 2.3 (真實與虛幻): 宣告 logic = [[0, "X"], ["X", 0]] 與 visible = [["🔲", "🔲"], ["🔲", "🔲"]]。寫一段程式，自動根據 logic 的值，如果發現是 "X" 就把 visible 對應座標改成 🚩，最後印出 visible。
+
+<img width="1537" height="313" alt="image" src="https://github.com/user-attachments/assets/3f960f3a-39e4-47ed-9ebf-88f33cc371b8" />
+
+## 📝 Challenge 2.4 (邊界巡邏): 建立一個 4x4 的全 0 矩陣。使用迴圈將矩陣的「最外圍邊界」(第 0 列、最後一列、第 0 行、最後一行) 全部改成 1，並逐列印出。
+
+<img width="1337" height="462" alt="image" src="https://github.com/user-attachments/assets/6a3a60fe-b838-400e-9f4f-6f588e60ba57" />
+
+<img width="1702" height="422" alt="image" src="https://github.com/user-attachments/assets/9abc1bee-c91c-4d3a-9321-63cb6bed23e6" />
