@@ -35,6 +35,6 @@
 
 <img width="1337" height="462" alt="image" src="https://github.com/user-attachments/assets/6a3a60fe-b838-400e-9f4f-6f588e60ba57" />
 
-##📝 Challenge 2.5 (九宮格印鈔機): 定義中心座標 cx, cy = 1, 1。建立一個 3x3 的 🔲 矩陣。利用兩個迴圈 (dx 從 -1 到 1，dy 從 -1 到 1)，將 (cx+dx, cy+dy) 的位置全部塞入 💲，最後印出 (會是一個全滿的錢幣矩陣)。
+## 📝 Challenge 2.5 (九宮格印鈔機): 定義中心座標 cx, cy = 1, 1。建立一個 3x3 的 🔲 矩陣。利用兩個迴圈 (dx 從 -1 到 1，dy 從 -1 到 1)，將 (cx+dx, cy+dy) 的位置全部塞入 💲，最後印出 (會是一個全滿的錢幣矩陣)。
 
 <img width="1702" height="422" alt="image" src="https://github.com/user-attachments/assets/9abc1bee-c91c-4d3a-9321-63cb6bed23e6" />
