@@ -20,3 +20,24 @@
 ## Challenge 1.5 (找出奇數): 建立集合 nums = {1, 2, 3, 4, 5, 6}。寫一個 for 迴圈，如果數字是奇數 (用 % 2 判斷)，就把它加入到新的集合 odds 中，最後印出。
 
 <img width="391" height="252" alt="image" src="https://github.com/user-attachments/assets/f293e8a5-d924-4a9b-8abc-10c1793288d8" />
+
+##  Challenge 2.1 (隨機五連星): 使用 while 迴圈與 set，產生 5 個不重複的隨機座標 (範圍 0 到 4)，並印出這個集合。
+
+<img width="647" height="306" alt="image" src="https://github.com/user-attachments/assets/c689a68a-93ed-454a-958a-27f5e980a0fb" />
+
+## Challenge 2.2 (檢查腳下): 宣告 mines = {(1,1), (3,3)}。寫一個 if-else，判斷玩家踩下的座標 (2,2) 是否在 mines 集合中。如果在，印出「踩到地雷！」；不在，印出「安全！」。
+
+<img width="450" height="232" alt="image" src="https://github.com/user-attachments/assets/1dc18d90-e06f-4dd0-8908-1df300911c67" />
+
+##  Challenge 2.3 (小型佈雷器): 建立一個 3x3 的 logic 矩陣(全填 0)。建立一個集合 mines = {(0,0), (2,2)}。用迴圈將集合內的座標，在 logic 矩陣中對應的位置改成 "X"，並逐列印出。
+
+<img width="621" height="347" alt="image" src="https://github.com/user-attachments/assets/6e0201cc-b72d-4322-8b63-222292ce4346" />
+
+##  Challenge 2.4 (計算安全區): 一個 3x3 的盤面總共有 9 個格子(Universal Set)。如果你的 mines 集合裡有 4 顆地雷，寫程式算出並印出「安全格的數量」 (提示：利用減法 9 - len(mines))。
+
+<img width="485" height="226" alt="image" src="https://github.com/user-attachments/assets/83974640-86fc-47c9-aec8-0d1e259bcca0" />
+
+## Challenge 2.5 (視覺化防護網): 延續 2.3 題的 mines 集合，建立一個 3x3 的迴圈，如果當下座標 (r, c) 在 mines 裡，就印出 💣，否則印出 🔲。印出一個 3x3 的美麗九宮格。
+
+<img width="587" height="372" alt="image" src="https://github.com/user-attachments/assets/ea28fa38-dd9c-410b-a947-db86f41a5331" />
+
