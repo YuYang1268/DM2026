@@ -42,4 +42,4 @@
 <img width="792" height="417" alt="image" src="https://github.com/user-attachments/assets/3a124b7b-833f-4253-a877-c4df5c1560de" />
 
 # 自習心得:
-## 
+## 完成了本周的課程後, 我對排列, 組合和機率有了深入的了解. 排列的話, 例如說我需要, 
