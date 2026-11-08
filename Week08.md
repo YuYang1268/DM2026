@@ -11,11 +11,11 @@
 
 ## Challenge 1.3 (死亡機率): 盤面有 81 格，地雷 10 顆。印出「隨機點擊一格的死亡機率」，請用百分比表示並取小數點後一位。
 
-<img width="508" height="186" alt="image" src="https://github.com/user-attachments/assets/9f9e0cb4-6768-47f3-963a-84ddf59007d0" />
+<img width="565" height="136" alt="image" src="https://github.com/user-attachments/assets/3ce176b9-d06e-4243-8ef5-b3383c9fbe25" />
 
 ## Challenge 1.4 (二維計數): 給定矩陣 matrix = [[1, 0, 1], [0, 0, 0]]。寫一個迴圈，計算矩陣內總共有幾個 1。
 
-<img width="565" height="136" alt="image" src="https://github.com/user-attachments/assets/3ce176b9-d06e-4243-8ef5-b3383c9fbe25" />
+<img width="510" height="232" alt="image" src="https://github.com/user-attachments/assets/3c1e37a2-d0b0-4433-bc06-8cb88dad6af7" />
 
 ## Challenge 1.5 (期望值算力): 某寶箱有 20% 機率獲得 100 元，80% 機率失去 10 元。算出並印出這個寶箱的期望值。
 
