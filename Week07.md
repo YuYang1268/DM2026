@@ -37,7 +37,8 @@
 <img width="702" height="237" alt="image" src="https://github.com/user-attachments/assets/a35afa7f-e5b4-4e8e-82c7-e92b5bfb7eac" />
 
 ## Challenge 2.4 (十字雷達修改): 複製 get_neighbors 的概念，但這次只檢查上下左右 (十字型)，不檢查斜角。測試 (4,4)。
-
+## if dr != 0 and dc != 0: continue 表示不需要印斜對點
+## if dr == 0 and dc == 0: continue 表示不需要印中間點
 <img width="577" height="352" alt="image" src="https://github.com/user-attachments/assets/8b5f045f-5b02-4ca2-a124-4fd521de4ca8" />
 
 ## Challenge 2.5 (大範圍雷達): 複製 get_neighbors 的概念，將偏移量從 [-1, 0, 1] 擴大為 [-2, -1, 0, 1, 2] (5x5 範圍)。印出 (4,4) 會得到幾個合法鄰居。
