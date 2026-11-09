@@ -15,7 +15,7 @@
 
 ##  Challenge 1.4 (十面骰子): 使用 while 迴圈與 random.randint(1, 10)，持續丟骰子直到收集滿 5 個不重複的數字為止，印出結果。
 
-<img width="523" height="283" alt="image" src="https://github.com/user-attachments/assets/610c1200-6d32-459b-86be-76aa8f4fdc7e" />
+<img width="545" height="276" alt="image" src="https://github.com/user-attachments/assets/ebe4f247-9da8-4fe0-83a6-b4955f781cb6" />
 
 ## Challenge 1.5 (找出奇數): 建立集合 nums = {1, 2, 3, 4, 5, 6}。寫一個 for 迴圈，如果數字是奇數 (用 % 2 判斷)，就把它加入到新的集合 odds 中，最後印出。
 
